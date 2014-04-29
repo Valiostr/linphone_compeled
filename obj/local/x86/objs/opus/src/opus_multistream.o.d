@@ -1,0 +1,161 @@
+obj/local/x86/objs/opus/src/opus_multistream.o: \
+ jni/..//submodules/externals/build/opus/../../opus/src/opus_multistream.c \
+ jni/..//submodules/externals/build/opus/../../opus/../build/opus/config.h \
+ jni/..//submodules/externals/build/opus/../../opus/include/opus_multistream.h \
+ jni/..//submodules/externals/build/opus/../../opus/include/opus.h \
+ jni/..//submodules/externals/build/opus/../../opus/include/opus_types.h \
+ /media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/stdint.h \
+ /media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/sys/_types.h \
+ /media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/machine/_types.h \
+ /media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/sys/_wchar_limits.h \
+ /media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/android/api-level.h \
+ jni/..//submodules/externals/build/opus/../../opus/include/opus_defines.h \
+ jni/..//submodules/externals/build/opus/../../opus/include/opus.h \
+ jni/..//submodules/externals/build/opus/../../opus/src/opus_private.h \
+ jni/..//submodules/externals/build/opus/../../opus/celt/arch.h \
+ jni/..//submodules/externals/build/opus/../../opus/include/opus_types.h \
+ jni/..//submodules/externals/build/opus/../../opus/include/opus_defines.h \
+ jni/..//submodules/externals/build/opus/../../opus/celt/celt.h \
+ jni/..//submodules/externals/build/opus/../../opus/include/opus_custom.h \
+ jni/..//submodules/externals/build/opus/../../opus/celt/entenc.h \
+ jni/..//submodules/externals/build/opus/../../opus/celt/entcode.h \
+ /media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/limits.h \
+ /media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/sys/cdefs.h \
+ /media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/sys/cdefs_elf.h \
+ /media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/sys/limits.h \
+ /media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/linux/limits.h \
+ /media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/machine/internal_types.h \
+ /media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/machine/limits.h \
+ /media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/sys/syslimits.h \
+ /media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/asm/page.h \
+ /media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/asm/page_32.h \
+ jni/..//submodules/externals/build/opus/../../opus/celt/ecintrin.h \
+ /media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/math.h \
+ /media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/sys/types.h \
+ /media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/linux/posix_types.h \
+ /media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/linux/stddef.h \
+ /media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/linux/compiler.h \
+ /media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/asm/posix_types.h \
+ /media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/asm/posix_types_32.h \
+ /media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/asm/types.h \
+ /media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/linux/types.h \
+ /media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/machine/kernel.h \
+ /media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/sys/sysmacros.h \
+ jni/..//submodules/externals/build/opus/../../opus/celt/arch.h \
+ jni/..//submodules/externals/build/opus/../../opus/celt/entdec.h \
+ jni/..//submodules/externals/build/opus/../../opus/celt/stack_alloc.h \
+ jni/..//submodules/externals/build/opus/../../opus/celt/float_cast.h \
+ jni/..//submodules/externals/build/opus/../../opus/celt/os_support.h \
+ /media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/string.h \
+ /media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/malloc.h \
+ /media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/stdio.h \
+ /media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/stdlib.h \
+ /media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/alloca.h \
+ /media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/strings.h \
+ /media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/memory.h
+
+jni/..//submodules/externals/build/opus/../../opus/../build/opus/config.h:
+
+jni/..//submodules/externals/build/opus/../../opus/include/opus_multistream.h:
+
+jni/..//submodules/externals/build/opus/../../opus/include/opus.h:
+
+jni/..//submodules/externals/build/opus/../../opus/include/opus_types.h:
+
+/media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/stdint.h:
+
+/media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/sys/_types.h:
+
+/media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/machine/_types.h:
+
+/media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/sys/_wchar_limits.h:
+
+/media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/android/api-level.h:
+
+jni/..//submodules/externals/build/opus/../../opus/include/opus_defines.h:
+
+jni/..//submodules/externals/build/opus/../../opus/include/opus.h:
+
+jni/..//submodules/externals/build/opus/../../opus/src/opus_private.h:
+
+jni/..//submodules/externals/build/opus/../../opus/celt/arch.h:
+
+jni/..//submodules/externals/build/opus/../../opus/include/opus_types.h:
+
+jni/..//submodules/externals/build/opus/../../opus/include/opus_defines.h:
+
+jni/..//submodules/externals/build/opus/../../opus/celt/celt.h:
+
+jni/..//submodules/externals/build/opus/../../opus/include/opus_custom.h:
+
+jni/..//submodules/externals/build/opus/../../opus/celt/entenc.h:
+
+jni/..//submodules/externals/build/opus/../../opus/celt/entcode.h:
+
+/media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/limits.h:
+
+/media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/sys/cdefs.h:
+
+/media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/sys/cdefs_elf.h:
+
+/media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/sys/limits.h:
+
+/media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/linux/limits.h:
+
+/media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/machine/internal_types.h:
+
+/media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/machine/limits.h:
+
+/media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/sys/syslimits.h:
+
+/media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/asm/page.h:
+
+/media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/asm/page_32.h:
+
+jni/..//submodules/externals/build/opus/../../opus/celt/ecintrin.h:
+
+/media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/math.h:
+
+/media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/sys/types.h:
+
+/media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/linux/posix_types.h:
+
+/media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/linux/stddef.h:
+
+/media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/linux/compiler.h:
+
+/media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/asm/posix_types.h:
+
+/media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/asm/posix_types_32.h:
+
+/media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/asm/types.h:
+
+/media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/linux/types.h:
+
+/media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/machine/kernel.h:
+
+/media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/sys/sysmacros.h:
+
+jni/..//submodules/externals/build/opus/../../opus/celt/arch.h:
+
+jni/..//submodules/externals/build/opus/../../opus/celt/entdec.h:
+
+jni/..//submodules/externals/build/opus/../../opus/celt/stack_alloc.h:
+
+jni/..//submodules/externals/build/opus/../../opus/celt/float_cast.h:
+
+jni/..//submodules/externals/build/opus/../../opus/celt/os_support.h:
+
+/media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/string.h:
+
+/media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/malloc.h:
+
+/media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/stdio.h:
+
+/media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/stdlib.h:
+
+/media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/alloca.h:
+
+/media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/strings.h:
+
+/media/valiostr/bonus/android-ndk-r9d/platforms/android-14/arch-x86/usr/include/memory.h:
